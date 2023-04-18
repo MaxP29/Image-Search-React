@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.search-bar {
+  border: 2px solid lightgray;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.search-bar form {
+  display: flex;
+  flex-direction: column;
+}

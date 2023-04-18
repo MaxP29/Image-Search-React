@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.image-list {
+  columns: 6 200px;
+  column-gap: 10px;
+}
+
+img {
+  width: 100%;
+  margin-bottom: 10px;
+}
